@@ -4,14 +4,13 @@ họ tên: Huỳnh Chí Thiện — lớp: ptithcm_ks26 — môn: it108
 
 ## 1. phân tích
 
-![ảnh F12 từ đề bài](images/f12-ban-dau.png)
+![ảnh F12 từ đề bài](ảnh/f12-ban-dau.png)
 
 khung danh sách trạm đang chồng lên thông tin tài xế
 
 nhấn F12 → Ctrl + Shift + C → chọn khung lỗi → trong Elements tìm thẻ cha bao cả khung. chọn Computed để xem box model
 
-![sơ đồ box model minh họa](images/box-model.png)
-
+![sơ đồ box model minh họa](ảnh/anh1.png)
 | lớp | ý nghĩa |
 | --- | --- |
 | content | nội dung bên trong |

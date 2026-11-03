@@ -1,7 +1,3 @@
-# bài tập box model
-
-họ tên: Huỳnh Chí Thiện — lớp: ptithcm_ks26 — môn: it108
-
 ## 1. phân tích
 
 ![ảnh F12 từ đề bài](ảnh/f12-ban-dau.png)
